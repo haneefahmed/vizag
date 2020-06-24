@@ -1,0 +1,128 @@
+
+.fit-picture{
+  width:550px;
+}
+
+
+p{
+width:100%;
+
+  display: inline-block;
+  font-family: Roboto;
+
+
+  font-size: 1.3rem;
+}
+/* first paragarph bottom margin */
+.firstp{
+  margin-bottom: 50px;
+}
+a{
+  text-decoration: none;
+  color:#111d5e;
+}
+#big-heading{
+  font-size: 10rem;
+  font-family: Poppins;
+
+}
+h2{
+  color:#111d5e;
+
+}
+
+img{
+  margin-bottom: 50px;
+}
+hr{
+  border-top: 1px solid;
+  opacity: 40%;
+}
+.vv{
+  font-family: Poppins;
+}
+/* .xd{
+  font-family: Roboto;
+} */
+
+
+
+
+.intro
+{
+  padding:7% 15%;
+background-color:#dddddd;
+
+}
+.old{
+  padding:7% 15%;
+
+}
+
+.inception{
+  padding:7% 15%;
+  background-color: #ffffff;
+}
+
+.buddhism{
+  padding:7% 15%;
+background-color:#dddddd;
+}
+
+
+.british{
+  padding:7% 15%;
+  background-color: #ffffff;
+}
+.fleet{
+  padding:7% 15%;
+background-color:#dddddd;
+}
+.footer{
+  padding:4% 15%;
+background-color:#dddddd;
+}
+#wrap{
+  padding:7% 15%;
+}
+.navbar-brand
+{
+  font-family: Roboto;
+}
+.kgh{
+  width:750px;
+}
+.buddha{
+  width:350px;
+}
+.fab{
+  margin-right:20px;
+  margin-bottom:50px;
+}
+/* carousel width */
+#carouselExampleCaptions
+{
+  width :60%;
+
+  position:relative;
+}
+#carouselExampleCaptions2
+{
+  width :60%;
+
+  position:relative;
+}
+/* .fbtn{
+  margin-right: 50px;
+} */
+.footer{
+  text-align: center;
+}
+.copyright{font-size: 1rem;
+  }
+
+
+
+/* body{
+  text-align:center;
+} */
